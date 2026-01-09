@@ -1,12 +1,15 @@
-# Rust Latam: procedural macros workshop
+# Solutions to "Rust Latam: procedural macros workshop"
 
-*This repo contains a selection of projects designed to learn to write Rust
-procedural macros &mdash; Rust code that generates Rust code.*
+This repo contains solutions I have written for [David Tolnay's procedural
+macros workshop](https://github.com/dtolnay/proc-macro-workshop). The original
+contents of the README can be found below.
 
-*Each of these projects is drawn closely from a compelling real use case. Out of
-the 5 projects here, 3 are macros that I have personally implemented in
-industrial codebases for work, and the other 2 exist as libraries on crates.io
-by other authors.*
+### Progress
+- [ ] Derive macro: `derive(Builder)`
+- [ ] Derive macro: `derive(CustomDebug)`
+- [ ] Function-like macro: `seq!`
+- [ ] Attribute macro: `#[sorted]`
+- [ ] Attribute macro: `#[bitfield]`
 
 <br>
 
