@@ -5,7 +5,7 @@ macros workshop](https://github.com/dtolnay/proc-macro-workshop). The original
 contents of the README can be found below.
 
 ### Progress
-- [ ] Derive macro: `derive(Builder)`
+- [x] Derive macro: `derive(Builder)`
 - [ ] Derive macro: `derive(CustomDebug)`
 - [ ] Function-like macro: `seq!`
 - [ ] Attribute macro: `#[sorted]`
