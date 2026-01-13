@@ -7,7 +7,7 @@ contents of the README can be found below.
 ### Progress
 - [x] Derive macro: `derive(Builder)`
 - [ ] Derive macro: `derive(CustomDebug)`
-- [ ] Function-like macro: `seq!`
+- [x] Function-like macro: `seq!`
 - [ ] Attribute macro: `#[sorted]`
 - [ ] Attribute macro: `#[bitfield]`
 
